@@ -34,5 +34,5 @@ In other words, the equinoxes are the only times when the [subsolar point](https
 
 </br>
 
-
+The dates of the equinoxes change progressively during the leap-year cycle, because the Gregorian calendar year is not commensurate with the period of the Earth's revolution about the Sun. It is only after a complete Gregorian leap-year cycle of 400 years that the seasons commence at approximately the same time. In the 21st century the earliest March equinox will be 19 March 2096, while the latest was 21 March 2003. The earliest September equinox will be 21 September 2096 while the latest was 23 September 2003 ([Universal Time](https://en.wikipedia.org/wiki/Universal_Time)).
 
