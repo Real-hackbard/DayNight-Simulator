@@ -10,7 +10,7 @@
 
 </br>
 
-
+A solar equinox is a moment in time when the Sun appears [directly above](https://en.wikipedia.org/wiki/Zenith) the equator, rather than to its north or south. On the day of the equinox, the Sun appears to rise directly east and set directly west. This occurs twice each year, around 20 March and 23 September.
 
 
 
