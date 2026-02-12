@@ -12,6 +12,14 @@
 
 A solar equinox is a moment in time when the Sun appears [directly above](https://en.wikipedia.org/wiki/Zenith) the equator, rather than to its north or south. On the day of the equinox, the Sun appears to rise directly east and set directly west. This occurs twice each year, around 20 March and 23 September.
 
+This program can display the equinox using data from the local system. First, the time and date are determined before the data is plotted. The current time determines the position of the sun, which appears as a yellow dot. The calculation can be displayed step-by-step, in a simulation, or saved as a bitmap.
+
+</br>
+
+![DayNight](https://github.com/user-attachments/assets/31f2c35a-3214-4751-b798-6631a8c9f6b5)
+
+</br>
+
 
 
 
