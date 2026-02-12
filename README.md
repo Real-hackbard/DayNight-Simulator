@@ -20,6 +20,10 @@ This program can display the equinox using data from the local system. First, th
 
 </br>
 
+Systematically observing the [sunrise](https://en.wikipedia.org/wiki/Sunrise), people discovered that it occurs between two extreme locations at the [horizon](https://en.wikipedia.org/wiki/Horizon) and eventually noted the midpoint between the two. Later it was realized that this happens on a day when the duration of the day and the night are practically equal and the word "equinox" comes from Latin aequus, meaning "equal", and nox, meaning "night".
+
+In other words, the equinoxes are the only times when the subsolar point is on the equator, meaning that the Sun is exactly overhead at a point on the equatorial line. The subsolar point crosses the equator moving northward at the March equinox and southward at the September equinox.
+
 
 
 
